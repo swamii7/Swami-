@@ -53,15 +53,7 @@ MySQL • PostgreSQL • MongoDB
 
 ---
 
-## 📈 GitHub Stats
 
-(Add GitHub Stats Card)
-
-(Add GitHub Streak)
-
-(Add Most Used Languages)
-
----
 
 ## 🤝 Connect with Me
 
@@ -74,6 +66,8 @@ MySQL • PostgreSQL • MongoDB
 <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/>
 </a>
 
+<a href="https://www.instagram.com/ig_swami1688" target="_blank">
+<img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"/>
 
 
 </a>
